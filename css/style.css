@@ -384,7 +384,7 @@ p {
 
 /*------------about------------*/
 /*------------wrapper------------*/
-.wrapper {
+/*.wrapper {
   background-image: url("../image/w.jpg");
   height: 80vh;
   background-attachment: fixed;
