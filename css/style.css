@@ -8,7 +8,7 @@ body {
 // <weight>: Use a value from 100 to 900
 
 .inter-<uniquifier> {
-  font-family: "Inter", sans-serif;
+  font-family: "inter", sans-serif;
   font-optical-sizing: auto;
   font-weight: <weight>;
   font-style: normal;
