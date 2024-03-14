@@ -288,9 +288,9 @@ button span {
 
 /*------------home------------*/
 /*------------about------------*/
-.top {
+/*.top {
   margin-top: 80px;
-}
+} 
 
 .mtop {
   margin-top: 40px;
@@ -380,7 +380,7 @@ p {
   background-repeat: no-repeat;
   height: 50px;
   width: 100%;
-}
+} */
 
 /*------------about------------*/
 /*------------wrapper------------*/
