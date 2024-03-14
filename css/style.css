@@ -441,7 +441,7 @@ p {
 .owl-nav .owl-next i:hover,
 .owl-nav .owl-prev i:hover {
   background: #CC8C18;
-  color: white;
+  color: red;
 }
 
 /*------------wrapper------------*/
